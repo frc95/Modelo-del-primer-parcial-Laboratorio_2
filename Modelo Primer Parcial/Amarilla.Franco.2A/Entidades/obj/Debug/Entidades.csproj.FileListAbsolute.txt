@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Modelo Primer Parcial\Amarilla.Franco.2A\Entidades\obj\Debug\Entidades.pdb
