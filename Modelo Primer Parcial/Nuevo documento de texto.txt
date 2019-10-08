@@ -1,0 +1,8 @@
+CTS
+cortocircuito
+clases
+objetos
+constructores
+conversiones implicitas
+virtual
+herencia
